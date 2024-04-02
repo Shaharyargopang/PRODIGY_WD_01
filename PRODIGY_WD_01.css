@@ -3,6 +3,12 @@
         padding: 0;
         font-family: Arial, sans-serif;
         background-color: #f8f8f8;
+            background-image: url('l_page.jpg');
+            background-size: cover; 
+            background-repeat: no-repeat;
+            background-position: center;
+        
+        
     }
     .container {
         max-width: 1200px;
@@ -49,7 +55,6 @@
         text-align: center;
     }
     .unique-feature {
-        background-color: #ff6f61;
         color: #fff;
         padding: 50px;
         margin-bottom: 20px;
